@@ -14,7 +14,6 @@ Furious Ball is a **single-player Unity game** where the player must carefully g
 ---
 
 ## 🎥 Demo
-## 🎥 Demo
 [▶️ Watch Gameplay Demo](Recordings/movie_001.mp4)
 
 
