@@ -1,7 +1,3 @@
-# Furious Ball – Unity Game
-
-Unity project for the Furious Ball game.
-
 # 🎮 Furious Ball Unity Game
 
 Furious Ball is a **single-player Unity game** where the player must carefully guide a ball along a randomly generated path across a flowing river. Stray off the path, and the game is over!
@@ -18,15 +14,9 @@ Furious Ball is a **single-player Unity game** where the player must carefully g
 ---
 
 ## 🎥 Demo
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
-*Click the image above to watch the demo video.*  
+## 🎥 Demo
+[▶️ Watch Gameplay Demo](Recordings/movie_001.mp4)
 
----
-
-## 🖼️ Screenshots
-(Add screenshots of your gameplay here)
-
-![Gameplay Preview](assets/demo.gif)
 
 ---
 
